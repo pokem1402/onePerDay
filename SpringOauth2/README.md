@@ -11,9 +11,13 @@ Spring Oauth2 default redirect URI template : `{baseUrl}/login/oauth2/authorizat
 examples of registrationId : google, github
 
 ### keywords in tutorial
+
 webjars,
-yml
-Oauth2
+
+yml,
+
+Oauth2,
+
 Cross Site Request Forgery(CSRF)
 
 
